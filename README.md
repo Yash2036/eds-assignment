@@ -1,1 +1,2 @@
 # eds-assignment
+All Practicals
